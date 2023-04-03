@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+}
+body {
+  background-color: ;
+}
+.section_1 {
+}
+#first_div {
+  background-color: rgb(51, 144, 219);
+  width: 40%;
+  height: 15rem;
+  margin: auto;
+  margin-top: 3rem;
+}
+#second_div {
+  background-color: whitesmoke;
+  width: 40%;
+  height: 15rem;
+  margin: auto;
+  margin-top: -1.5rem;
+}
+#twitter_logo {
+  margin-left: 1rem;
+  margin-top: 9rem;
+}
+#tname {
+  font-size: 1.3rem;
+  margin-top: 3rem;
+  margin-left: 1rem;
+  font-family: "Times New Roman";
+}
+#twitter-ver {
+  width: 1rem;
+  height: 1rem;
+  margin-left: 0.5rem;
+}
+#p {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  font-family: "Times New Roman";
+  margin-left: 1rem;
+}
+
+#info {
+  margin-left: 1rem;
+}
+#place {
+  margin-left: 0.03rem;
+}
+#location {
+  width: 0.9rem;
+  height: 0.9rem;
+}
+#link {
+  margin-left: 0.5rem;
+  color: rgb(51, 144, 219);
+}
+#link_chain {
+  width: 0.7rem;
+  height: 0.7rem;
+}
+#dob {
+  margin-left: 1rem;
+}
+#calender {
+  width: 0.9rem;
+  height: 0.9rem;
+}
+#followers {
+  margin-left: 2rem;
+}
